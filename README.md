@@ -9,3 +9,15 @@ This is a small learning-F# project.
 ```
 dotnet test PwnedCheck.Leaked.Test
 ```
+
+### Build CLI App 
+
+```
+dotnet build PwnedCheck.Main
+```
+
+### Run CLI App
+
+```
+dotnet run --project PwnedCheck.Main
+```
