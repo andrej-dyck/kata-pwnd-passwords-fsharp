@@ -10,6 +10,7 @@
         <Compile Include="CryptographyExtensions.fs" />
         <Compile Include="Password.fs" />
         <Compile Include="LeakageCheck.fs" />
+        <Compile Include="PwnedPasswords.fs" />
     </ItemGroup>
 
     <ItemGroup>
